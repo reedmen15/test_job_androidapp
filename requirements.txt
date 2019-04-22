@@ -1,0 +1,5 @@
+imput your data:
+
+21    desired_caps['udid'] = 'your_udid'
+
+108   path_screen = '/home/path_your_file'
